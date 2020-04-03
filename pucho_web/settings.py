@@ -26,7 +26,7 @@ SECRET_KEY = 'w)&4yb^5^532d#3h*)c+1k=y40jttqyzti6w#r4r0h!pnp)%+a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [u'pucho-web.herokuapp.com',u'pucho.co']
+ALLOWED_HOSTS = ['127.0.0.1',u'pucho-web.herokuapp.com',u'pucho.co']
 
 
 # Application definition
